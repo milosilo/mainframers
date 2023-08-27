@@ -24,28 +24,28 @@ The main menu offers players options to:
 #### Game Structure
 The game consists of a series of "rooms," each representing a different area of mainframe cybersecurity. Players must navigate these rooms, fulfilling missions that are realistic simulations of real-world tasks.
 
--RACF Management Room: 
+- RACF Management Room: 
 Designed like a cybersecurity operations center, this room focuses on Resource Access Control Facility (RACF) management. Players decrypt messages using RACF commands.
 
--JCL Room: 
+- JCL Room: 
 Resembling a hacker’s den, this room is all about Job Control Language (JCL). Players use JCL commands to bypass security walls.
 
--FTP Security Room: 
+- FTP Security Room: 
 Modeled after a secure data transfer facility, this room centers on File Transfer Protocol Secure (FTPS). Players work on securely transferring files.
 
--z/OS Security Room: 
+- z/OS Security Room: 
 A high-security vault that deals with z/OS security. Players work on unlocking a vault by implementing z/OS security best practices.
 
--ESM Configuration Room: 
+- ESM Configuration Room: 
 Designed to look like an IBM mainframe console room, this room focuses on configuring an External Security Manager (ESM).
 
--Encryption Techniques Room: 
+- Encryption Techniques Room: 
 Styled like a cryptography lab, this room educates players on various encryption techniques. Players identify and implement encryption algorithms.
 
--Incident Response Room: 
+- Incident Response Room: 
 A control room with multiple screens displaying real-time mainframe activity. Players identify and respond to security incidents following NIST guidelines.
 
--Final Room: 
+- Final Room: 
 The ultimate challenge room that tests all the skills acquired throughout the game. It has an immersive setting with a time-sensitive mission that involves multiple tasks.
 
 #### Progression
