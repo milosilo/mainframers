@@ -1,5 +1,7 @@
 ## Mainframers IBM Cybersecurity RPG
 
+![mainframers[(https://i.redd.it/kfxz5kzwrcnb1.png)
+
 ### Overview
 
 Mainframers, Sneakers-Inspired Mainframers Cybersecurity RPG is an educational text-based role-playing game (RPG) that aims to teach players about IBM mainframe penetration testing and cybersecurity. Inspired by the classic 1981 video game "Sneakers," the game merges nostalgia and education, offering hands-on, real-world simulations.
