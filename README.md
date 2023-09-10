@@ -1,6 +1,6 @@
 ## Mainframers IBM Cybersecurity RPG
 
-![mainframers[(https://i.redd.it/kfxz5kzwrcnb1.png)
+![mainframers](https://i.redd.it/kfxz5kzwrcnb1.png)
 
 ### Overview
 
